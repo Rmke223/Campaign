@@ -2,6 +2,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
   
 }
 .jumbotron h1{
@@ -30,7 +31,7 @@
         margin: 0px;
         padding: 0px;
         overflow-x: hidden;
-        background-color: dimgray;
+     
     }
 
   
